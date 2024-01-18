@@ -1,0 +1,10 @@
+{
+  "name": "dlcurl",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  },
+  "cloudfunction-config": {
+    "runtime": "Nodejs12" 
+  }
+}
